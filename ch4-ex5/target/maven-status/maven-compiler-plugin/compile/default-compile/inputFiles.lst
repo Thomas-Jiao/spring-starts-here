@@ -1,0 +1,8 @@
+/Users/thomasjiao/Desktop/Spring Core/ch4-ex3/src/main/java/configuration/ProjectConfiguration.java
+/Users/thomasjiao/Desktop/Spring Core/ch4-ex3/src/main/java/main/Main.java
+/Users/thomasjiao/Desktop/Spring Core/ch4-ex3/src/main/java/model/Comment.java
+/Users/thomasjiao/Desktop/Spring Core/ch4-ex3/src/main/java/proxies/CommentNotificationProxy.java
+/Users/thomasjiao/Desktop/Spring Core/ch4-ex3/src/main/java/proxies/EmailCommentNotificationProxy.java
+/Users/thomasjiao/Desktop/Spring Core/ch4-ex3/src/main/java/repositories/CommentRepository.java
+/Users/thomasjiao/Desktop/Spring Core/ch4-ex3/src/main/java/repositories/DBCommentRepository.java
+/Users/thomasjiao/Desktop/Spring Core/ch4-ex3/src/main/java/services/CommentService.java
